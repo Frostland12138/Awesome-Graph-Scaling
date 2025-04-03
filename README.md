@@ -2,7 +2,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-     <img src="./GS.png" width="500"/>
+     <img src="./GS.png" width="250"/>
 <p>
 
 
