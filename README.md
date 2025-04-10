@@ -114,7 +114,9 @@ In order to facilitate further experimental research in the field, we have compi
 | [IMDB-MULTI](https://arxiv.org/pdf/1912.11176.pdf)   | 1,500   | 13.0       | 65.9       | 3        | Social      |
 | [E-commerce](https://arxiv.org/pdf/2206.07746.pdf)   | 1,109   | 33.7       | 46.3       | 2        | Transaction |
 
-
+--------------------
+$\downarrow$ Previous Version of this repo $\downarrow$
+--------------------
 
 # Awesome-Graph-Condensation
 
