@@ -16,7 +16,7 @@ We will make this list updated. If you found any error or any missed paper, plea
 
 ## Paper List
 
-**:triangular_flag_on_post: Our survey paper [Learning to Reduce the Scale of Large Graphs: A Comprehensive Survey](https://) has been accepted for publication in the Transactions on Knowledge Discovery from Data. We are looking forward to any comments or discussions on this topic :)** 
+**:triangular_flag_on_post: Our survey paper [Learning to Reduce the Scale of Large Graphs: A Comprehensive Survey](http://dx.doi.org/10.1145/3729427) has been accepted for publication in the Transactions on Knowledge Discovery from Data. We are looking forward to any comments or discussions on this topic :)** 
 
 |Category |   Paper    |  Method  |  Conference  |  Code |
 | :------:|  :---------  | :------:  | :------: | :------: |
